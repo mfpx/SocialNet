@@ -21,6 +21,12 @@ description:         Please see the README on GitHub at <https://github.com/mfpx
 
 dependencies:
 - base >= 4.7 && < 5
+- random
+- text
+- string-random
+- lens
+- uuid
+- MonadRandom
 
 library:
   source-dirs: src
